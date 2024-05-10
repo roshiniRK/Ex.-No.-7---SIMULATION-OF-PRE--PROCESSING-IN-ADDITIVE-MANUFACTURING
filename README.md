@@ -49,7 +49,7 @@
 ![image](https://github.com/divyakumars/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119393621/46f3bb22-9d0d-4b14-8c2d-ca88d8656dff)
 
 
-### Name:ROSHINI
+### Name:ROSHINI R K
 ### Register Number:212222230123
 
 ## Result: 
